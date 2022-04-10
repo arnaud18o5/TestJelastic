@@ -1,5 +1,5 @@
 'use strict';
-const express  = require('express');
+import express  from 'express';
 //import session from 'express-session'
 import db from './utils/db';
 const app = express();
